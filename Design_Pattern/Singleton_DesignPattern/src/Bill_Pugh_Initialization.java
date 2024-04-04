@@ -14,8 +14,6 @@ public class Bill_Pugh_Initialization
 
         private static final Bill_Pugh_Initialization instance=new Bill_Pugh_Initialization();
 
-
-
     }
 
     public static  Bill_Pugh_Initialization getInstance()
