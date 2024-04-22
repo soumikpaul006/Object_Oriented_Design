@@ -1,4 +1,4 @@
-public class Jalepino extends BasePizza{
+public class Jalepino extends Toppings{
     BasePizza pizza;
 
     public Jalepino(BasePizza pizza)
